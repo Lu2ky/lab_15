@@ -1,0 +1,4 @@
+.env
+lab15-*
+node_modules
+package-lock.json

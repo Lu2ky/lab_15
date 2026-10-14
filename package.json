@@ -1,0 +1,13 @@
+{
+    "name": "upb-bookstore-lab12",
+    "private": true,
+    "scripts": {
+        "server": "node server/server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.6",
+        "dotenv": "^16.6.1",
+        "express": "^4.22.3",
+        "mysql2": "^3.24.4"
+    }
+}
